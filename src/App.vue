@@ -1,17 +1,26 @@
 <template>
   <NavbarSanc />
+  <HeroSanc />
+  <FeatureSanc />
+  <QuoteSanc />
   <FooterSanc />
 </template>
 
 <script>
 import NavbarSanc from './components/Navbar.vue'
+import HeroSanc from './components/Hero.vue'
+import FeatureSanc from './components/Feature.vue'
+import QuoteSanc from './components/Quote.vue'
 import FooterSanc from './components/Footer.vue'
 
 export default {
   name: 'App',
   components: {
     NavbarSanc,
-    FooterSanc
+    FooterSanc,
+    HeroSanc,
+    FeatureSanc,
+    QuoteSanc
   }
 }
 </script>

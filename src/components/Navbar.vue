@@ -21,7 +21,7 @@
       <div class="flex justify-end items-center relative">
         <div class="block">
             <div class="inline relative">
-                <button type="button" class="bg-vegan-green	inline-flex items-center relative px-2 border rounded-full hover:shadow-lg">
+                <button type="button" class="bg-vegan-green	inline-flex items-center relative px-2 rounded-full hover:bg-yellow-400 hover:shadow-lg">
                     <div class="pl-1 text-white">
                       <h1 class="map">MAP</h1>
                     </div>
@@ -69,7 +69,7 @@ a {
 .pig {
     width: 7vh;
     position: relative;
-    top: -6px;
+    top: -9px;
 }
 .pig2 {
     width: 10vh;
