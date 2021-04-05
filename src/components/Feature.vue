@@ -24,7 +24,7 @@
       </div>
     </div>
     <div class="lg:w-1/2 sm:w-1/3 w-full rounded-lg overflow-hidden mt-6 sm:mt-0">
-      <img class="object-cover object-center w-full h-full" src="https://dummyimage.com/600x300" alt="stats">
+      <img class="object-cover object-center w-full h-full" src="../assets/600x300.jpg" alt="stats">
     </div>
   </div>
 </section>

@@ -2,6 +2,7 @@
   <NavbarSanc />
   <HeroSanc />
   <FeatureSanc />
+  <VideoSanc />
   <QuoteSanc />
   <FooterSanc />
 </template>
@@ -11,6 +12,7 @@ import NavbarSanc from './components/Navbar.vue'
 import HeroSanc from './components/Hero.vue'
 import FeatureSanc from './components/Feature.vue'
 import QuoteSanc from './components/Quote.vue'
+import VideoSanc from './components/Video.vue'
 import FooterSanc from './components/Footer.vue'
 
 export default {
@@ -20,7 +22,8 @@ export default {
     FooterSanc,
     HeroSanc,
     FeatureSanc,
-    QuoteSanc
+    QuoteSanc,
+    VideoSanc
   }
 }
 </script>

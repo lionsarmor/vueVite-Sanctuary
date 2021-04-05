@@ -1,9 +1,9 @@
 <template>
 <div class="bg-vegan-blue relative overflow-hidden h-screen">
     <img src="../assets/hero.png" class="absolute h-full w-full object-cover"/>
-    <div class="inset-0 bg-black opacity-25 absolute">
+    <div class="inset-0 bg-black opacity-30 absolute">
     </div>
-    <div class="container mx-auto px-6 md:px-12 relative z-10 flex items-center py-32 xl:py-40">
+    <div class="container mx-auto px-6 md:px-12 relative z-10 flex items-center py-24 xl:py-32">
         <div class="lg:w-3/5 xl:w-2/5 flex flex-col items-start relative z-10">
             <span class="font-bold uppercase sanctuary-font text-yellow-400">
                 Save a life.

@@ -1,5 +1,5 @@
 <template>
-  <nav class=" bg-white w-full flex relative justify-between items-center mx-auto px-8 h-20">
+  <nav class="bg-vegan-blue w-full flex relative justify-between items-center mx-auto px-8 h-20">
     <!-- logo -->
     <div class="inline-flex">
         <a class="_o6689fn" href="/"
@@ -83,6 +83,9 @@ a {
 }
 .map {
     font-family: 'Julius Sans One', sans-serif;
+}
+.bg-vegan-blue {
+  background-color: #ffffff;
 }
 </style>
 
