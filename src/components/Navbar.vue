@@ -23,7 +23,7 @@
             <div class="inline relative">
                 <button type="button" class="bg-vegan-green	inline-flex items-center relative px-2 border rounded-full hover:shadow-lg">
                     <div class="pl-1 text-white">
-                      <h1>MAP</h1>
+                      <h1 class="map">MAP</h1>
                     </div>
 
 <div class="block flex-grow-0 flex-shrink-0 h-10 w-12 pt-1.5 pl-5">
@@ -80,6 +80,9 @@ a {
   font-size: 5vh;
   color: #53ab40;
   font-weight: bolder;
+}
+.map {
+    font-family: 'Julius Sans One', sans-serif;
 }
 </style>
 
