@@ -1,14 +1,17 @@
 <template>
-  <navbar />
+  <NavbarSanc />
+  <FooterSanc />
 </template>
 
 <script>
-import Navbar from './components/Navbar.vue'
+import NavbarSanc from './components/Navbar.vue'
+import FooterSanc from './components/Footer.vue'
 
 export default {
   name: 'App',
   components: {
-    Navbar,
+    NavbarSanc,
+    FooterSanc
   }
 }
 </script>

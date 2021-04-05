@@ -46,14 +46,13 @@
 </nav>
 </template>
 
-<script setup>
-import { defineProps, reactive } from 'vue'
+<script>
+export default {
+  name: 'Navbar',
+  components: {
 
-defineProps({
-
-})
-
-const state = reactive({ count: 0 })
+  }
+}
 </script>
 
 <style scoped>
