@@ -6,7 +6,7 @@
     <div class="flex flex-wrap -m-12">
       <div class="p-12 md:w-1/2 flex flex-col items-start">
          <div class="container px-5 py-24 mx-auto">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uLGu7FIabwU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="420" height="300" src="https://www.youtube.com/embed/uLGu7FIabwU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
       </div>
       <div class="p-12 md:w-1/2 flex flex-col items-start">
