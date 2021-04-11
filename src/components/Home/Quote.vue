@@ -1,6 +1,6 @@
 
 <template>
-<section class="bg-white text-grey-800 body-font">
+<section class="bg-white text-vegan-black body-font">
   <div class="container px-5 py-24 mx-auto">
     <div class="xl:w-1/2 lg:w-3/4 w-full mx-auto text-center">
       <svg xmlns="http://www.w3.org/2000/svg" fill="#fabf24" class="inline-block w-8 h-8 text-gray-400 mb-8" viewBox="0 0 975.036 975.036">
@@ -34,6 +34,9 @@ export default {
 }
 .bg-vegan-blue {
   background-color: #3584c9;
+}
+.text-vegan-black {
+color: #4d4b53;
 }
 .sanctuary-font {
   font-family: 'Julius Sans One', sans-serif;

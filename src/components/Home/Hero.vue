@@ -1,6 +1,6 @@
 <template>
 <div class="bg-vegan-blue relative overflow-hidden h-screen">
-    <img src="../assets/hero.png" class="absolute h-full w-full object-cover"/>
+    <img src="../../assets/hero.png" class="absolute h-full w-full object-cover"/>
     <div class="inset-0 bg-black opacity-30 absolute">
     </div>
     <div class="container mx-auto px-6 md:px-12 relative z-10 flex items-center py-24 xl:py-32">
@@ -13,9 +13,11 @@
                 <br/>
                     by nature
             </h1>
+            <router-link to="/Map">
             <a href="#" class="block bg-vegan-green hover:bg-yellow-400 py-3 px-4 rounded-full text-lg text-white sanctuary-font font-bold uppercase mt-10">
                 Find A Sanctuary
             </a>
+            </router-link>
         </div>
     </div>
 </div>

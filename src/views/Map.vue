@@ -1,7 +1,9 @@
 <template>
-  <router-view></router-view>
+<h1>DEJDQJWDJQWSQKSQSLQLWSQS:Q:W</h1>
 </template>
+
 <script>
+
 
 export default {
   name: 'App',
@@ -17,7 +19,7 @@ export default {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  color: #2c3e50;
+  color: #ffffff;
   margin-top: 60px;
 }
 </style>

@@ -5,11 +5,11 @@
         <a class="_o6689fn" href="/"
             >
               <div class="hidden md:block">
-              <img class="pig inline-block" src="../assets/pig.png" alt="SANCTUARY" />
+              <img class="pig inline-block" src="../../assets/pig.png" alt="SANCTUARY" />
               <h1 class="sanctuary-font inline-block pl-1">SANCTUARY</h1>
             </div>
             <div class="block md:hidden">
-              <img class="pig2" src="../assets/pig.png" alt="SANCTUARY" />
+              <img class="pig2" src="../../assets/pig.png" alt="SANCTUARY" />
             </div>
         </a>
     </div>
@@ -21,11 +21,11 @@
       <div class="flex justify-end items-center relative">
         <div class="block">
             <div class="inline relative">
-                <button type="button" class="bg-vegan-green	inline-flex items-center relative px-2 rounded-full hover:bg-yellow-400 hover:shadow-lg">
+                      <router-link to="/Map">
+<button type="button" class="bg-vegan-green	inline-flex items-center relative px-2 rounded-full hover:bg-yellow-400 hover:shadow-lg">
                     <div class="pl-1 text-white">
                       <h1 class="map">MAP</h1>
                     </div>
-
 <div class="block flex-grow-0 flex-shrink-0 h-10 w-12 pt-1.5 pl-5">
  <svg viewBox="0 0 16 16" 
  xmlns="http://www.w3.org/2000/svg" 
@@ -38,6 +38,7 @@
                                           </svg>
                     </div>
                 </button>
+                </router-link>
             </div>
         </div>
       </div>
