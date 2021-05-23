@@ -7,7 +7,7 @@
 <section class="bg-green sanctuary-font text-gray-600 body-font">
 <div class="center" id="map">
 <div class="map-responsive">
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1B20RYW0iHBKjp8A4m97pdxuUfU55aNGj" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1M0kUPSXPXQdxgyvjAUEpnNk_XJK_QmE3&hl=en" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 </div>
 </div> 
 </section>
