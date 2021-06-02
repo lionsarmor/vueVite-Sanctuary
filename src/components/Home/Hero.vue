@@ -6,12 +6,12 @@
     <div class="container mx-auto px-6 md:px-12 relative z-10 flex items-center py-24 xl:py-32">
         <div class="lg:w-3/5 xl:w-2/5 flex flex-col items-start relative z-10">
             <span class="font-bold uppercase sanctuary-font text-yellow-400">
-                Save a life.
+                Save a life. Support a Sanctuary.
             </span>
             <h1 class="font-bold text-6xl sm:text-7xl text-white leading-tight mt-4">
                 Let yourself be carried
                 <br/>
-                    by nature
+                    by compassion.
             </h1>
             <router-link to="/Map">
             <a href="#" class="block bg-vegan-green hover:bg-yellow-400 py-3 px-4 rounded-full text-lg text-white sanctuary-font font-bold uppercase mt-10">
